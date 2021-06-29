@@ -3,13 +3,12 @@
 <html>
 
 <HEAD>
-    <title>MELINAND Eva</title>
 </HEAD>
 
 <body>
 <h1>Eva Mélinand</h1>
 
-<p>"Work hard in silence, let your success be the noise.”* – Frank Ocean</p>
+<p>"Work hard in silence, let your success be the noise.” – Frank Ocean</p>
 <img src="FB_IMG_1624441410239.jpg" alt="me"/>
 <h2>Just a girl from the literary world who wants to learn and become a web developer.</h2>
 
