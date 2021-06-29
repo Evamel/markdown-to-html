@@ -24,15 +24,12 @@
         <td>Favorite food</td>
         <td>Every food is good (but carrots... i hate cooked carrots)</td>
     </tr>
+    <tr><td>Pinneapple on pizza:</td>
+        <td><input type="checkbox" name="yes" checked disabled>yes
+            <input type="checkbox" name="no" disabled>no</td>
+    </tr>
 </table>
 
-Pinneapple on pizza:
-</br>
-<input type="checkbox" id="yes" name="yes" checked>
-  <label for="yes">yes</label>
-
-<input type="checkbox" id="no" name="no">
-  <label for="no">no</label>
 
 
 <h2>Hobbies</h2>
