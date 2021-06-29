@@ -28,10 +28,10 @@
 
 Pinneapple on pizza:
 </br>
-<input type="checkbox" id="yes" name="yes" checked>
+<input type="checkbox" name="yes" checked>
   <label for="yes">yes</label>
 
-<input type="checkbox" id="no" name="no">
+<input type="checkbox" name="no">
   <label for="no">no</label>
 
 
